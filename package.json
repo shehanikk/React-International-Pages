@@ -4,10 +4,19 @@
   "homepage": "https://shehanikk.github.io/React-International-Pages",
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^6.2.0",
+    "@mui/material": "^6.2.0",
+    "@mui/styled-engine-sc": "^6.2.0",
+    "@types/react": "^19.0.1",
+    "@types/react-dom": "^19.0.2",
     "cra-template": "1.2.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1",
+    "styled-components": "^6.1.13",
+    "typescript": "^5.7.2",
     "web-vitals": "^4.2.4"
   },
   "scripts": {
@@ -39,4 +48,5 @@
   "devDependencies": {
     "gh-pages": "^6.2.0"
   }
+  
 }

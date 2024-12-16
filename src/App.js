@@ -1,9 +1,12 @@
 import './App.css';
+import DrawerAppBar from './component/dashbord';
+import SecondNavBar from './component/secondNav';
 
 function App() {
   return (
     <div className="App">
-      <h1>react apps</h1>
+      <DrawerAppBar/>
+      <SecondNavBar/>
     </div>
   );
 }
