@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/React-International-Pages/static/css/main.f855e6bc.css",
-    "main.js": "/React-International-Pages/static/js/main.6051e206.js",
+    "main.css": "/React-International-Pages/static/css/main.151f7969.css",
+    "main.js": "/React-International-Pages/static/js/main.408be6e1.js",
     "static/js/488.4c05762e.chunk.js": "/React-International-Pages/static/js/488.4c05762e.chunk.js",
+    "static/media/worldMap.png": "/React-International-Pages/static/media/worldMap.4657465bc9290b78f66c.png",
+    "static/media/avatar3.jpg": "/React-International-Pages/static/media/avatar3.0655bd1c1139bb95d61d.jpg",
+    "static/media/avatar1.jpg": "/React-International-Pages/static/media/avatar1.0957c003c086e66edc91.jpg",
+    "static/media/medLogo.png": "/React-International-Pages/static/media/medLogo.86f5dcf2875bb6a14662.png",
+    "static/media/pila.png": "/React-International-Pages/static/media/pila.c991b8c3b28adad738ce.png",
+    "static/media/nz.png": "/React-International-Pages/static/media/nz.7f16bdc3efd2cd2c5ab0.png",
+    "static/media/avatar2.jpg": "/React-International-Pages/static/media/avatar2.9fc5997433c7c5d988c3.jpg",
     "index.html": "/React-International-Pages/index.html",
-    "main.f855e6bc.css.map": "/React-International-Pages/static/css/main.f855e6bc.css.map",
-    "main.6051e206.js.map": "/React-International-Pages/static/js/main.6051e206.js.map",
+    "main.151f7969.css.map": "/React-International-Pages/static/css/main.151f7969.css.map",
+    "main.408be6e1.js.map": "/React-International-Pages/static/js/main.408be6e1.js.map",
     "488.4c05762e.chunk.js.map": "/React-International-Pages/static/js/488.4c05762e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.6051e206.js"
+    "static/css/main.151f7969.css",
+    "static/js/main.408be6e1.js"
   ]
 }
