@@ -139,7 +139,7 @@ const ExpeditedPathwayCards = () => {
                     RACGP Recognized Countries
                 </Typography>
 
-                <Stack direction="row" spacing={2.5} justifyContent="center">
+                <Stack direction="row" spacing={3} justifyContent="center">
                 <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
                     <Avatar
                         alt="Country 1"
@@ -277,7 +277,7 @@ const ExpeditedPathwayCards = () => {
                     </Typography>
                 </Box>
             </Stack>
-            <Stack direction="row" spacing={2.5} justifyContent="center" marginTop={3}>
+            <Stack direction="row" spacing={3} justifyContent="center" marginTop={3}>
                 <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
                     <Avatar
                         alt="Country 1"
@@ -468,7 +468,7 @@ const ExpeditedPathwayCards = () => {
                    ACRRM Recognized Countries
                 </Typography>
 
-                <Stack direction="row" spacing={1.6} justifyContent="center">
+                <Stack direction="row" spacing={2} justifyContent="left">
                 <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
                     <Avatar
                         alt="Country 1"
@@ -621,7 +621,7 @@ const ExpeditedPathwayCards = () => {
                     </Typography>
                 </Box>
             </Stack>
-            <Stack direction="row" spacing={1.8} justifyContent="center" marginTop={3}>
+            <Stack direction="row" spacing={2} justifyContent="left" marginTop={3}>
                 <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
                     <Avatar
                         alt="Country 1"
