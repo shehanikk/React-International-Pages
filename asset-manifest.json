@@ -1,22 +1,31 @@
 {
   "files": {
     "main.css": "/React-International-Pages/static/css/main.151f7969.css",
-    "main.js": "/React-International-Pages/static/js/main.408be6e1.js",
+    "main.js": "/React-International-Pages/static/js/main.d888ec31.js",
     "static/js/488.4c05762e.chunk.js": "/React-International-Pages/static/js/488.4c05762e.chunk.js",
+    "static/media/testiIm.jpeg": "/React-International-Pages/static/media/testiIm.ea6df0b33db1ceaba389.jpeg",
+    "static/media/ausiMap.png": "/React-International-Pages/static/media/ausiMap.2769e881fb03807edeee.png",
     "static/media/worldMap.png": "/React-International-Pages/static/media/worldMap.4657465bc9290b78f66c.png",
     "static/media/avatar3.jpg": "/React-International-Pages/static/media/avatar3.0655bd1c1139bb95d61d.jpg",
+    "static/media/whatsappLogo.png": "/React-International-Pages/static/media/whatsappLogo.7361317c3bc23add1639.png",
     "static/media/avatar1.jpg": "/React-International-Pages/static/media/avatar1.0957c003c086e66edc91.jpg",
     "static/media/medLogo.png": "/React-International-Pages/static/media/medLogo.86f5dcf2875bb6a14662.png",
+    "static/media/6im.png": "/React-International-Pages/static/media/6im.dbd94dc4c7127c809103.png",
+    "static/media/2im.png": "/React-International-Pages/static/media/2im.27c6ac0aff5eff618a86.png",
+    "static/media/1im.png": "/React-International-Pages/static/media/1im.10c51453b5aa02ac72ac.png",
+    "static/media/5im.png": "/React-International-Pages/static/media/5im.495c9a465314897f66f6.png",
     "static/media/pila.png": "/React-International-Pages/static/media/pila.c991b8c3b28adad738ce.png",
     "static/media/nz.png": "/React-International-Pages/static/media/nz.7f16bdc3efd2cd2c5ab0.png",
+    "static/media/4im.png": "/React-International-Pages/static/media/4im.414f2c91402e5ee2a7e7.png",
     "static/media/avatar2.jpg": "/React-International-Pages/static/media/avatar2.9fc5997433c7c5d988c3.jpg",
+    "static/media/3im.png": "/React-International-Pages/static/media/3im.b5df948457839d4becd4.png",
     "index.html": "/React-International-Pages/index.html",
     "main.151f7969.css.map": "/React-International-Pages/static/css/main.151f7969.css.map",
-    "main.408be6e1.js.map": "/React-International-Pages/static/js/main.408be6e1.js.map",
+    "main.d888ec31.js.map": "/React-International-Pages/static/js/main.d888ec31.js.map",
     "488.4c05762e.chunk.js.map": "/React-International-Pages/static/js/488.4c05762e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.151f7969.css",
-    "static/js/main.408be6e1.js"
+    "static/js/main.d888ec31.js"
   ]
 }
