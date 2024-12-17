@@ -33,7 +33,7 @@ function Register() {
           boxShadow: 3,
           borderRadius: 2,
           padding: 2,
-          position: 'relative', // Ensures proper positioning for the button
+          position: 'relative', 
         }}
       >
         <CardContent>
@@ -173,7 +173,7 @@ function Register() {
             />
           </Box>
 
-          {/* Checkboxes */}
+          
           <Box sx={{ marginTop: '20px' }}>
             <FormControlLabel
               control={<Checkbox />}

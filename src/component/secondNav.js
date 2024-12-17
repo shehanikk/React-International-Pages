@@ -18,6 +18,8 @@ import WhatsAppLogo from '../assets/whatsappLogo.png';
 import Register from './register';
 import Testimonials from './testimonials';
 import FAQ from './faq.js';
+import Insights from './insights.js';
+import Footer from './footer.js'
 
 const navItems = [
   'Doctor',
@@ -236,8 +238,11 @@ function App() {
 
          <FAQ/>
 
-         <Register/>
+         <Insights/>
+
         </Stack>
+
+        <Footer/>
       </Box>
     </Box>
   );

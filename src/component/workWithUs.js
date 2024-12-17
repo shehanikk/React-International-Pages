@@ -4,9 +4,9 @@ import Typography from '@mui/material/Typography';
 import first from '../assets/1im.png';
 import second from '../assets/2im.png';
 import third from '../assets/3im.png';
-import fourth from '../assets/4im.png'; // New image
-import fifth from '../assets/5im.png';  // New image
-import sixth from '../assets/6im.png';  // New image
+import fourth from '../assets/4im.png';
+import fifth from '../assets/5im.png';  
+import sixth from '../assets/6im.png';  
 
 function WhyWorkWithUs() {
     const cardData = [
@@ -41,7 +41,7 @@ function WhyWorkWithUs() {
 
     return (
         <Box>
-            {/* Heading */}
+           
             <Typography
                 variant="h4"
                 component="h2"
@@ -56,7 +56,7 @@ function WhyWorkWithUs() {
                 Why work with us
             </Typography>
 
-            {/* First Row of Cards */}
+            
             <Box
                 sx={{
                     display: 'flex',
@@ -86,14 +86,14 @@ function WhyWorkWithUs() {
                                 paddingBottom: '10px',
                             }}
                         >
-                            {/* Image */}
+                            
                             <img
                                 src={item.imgSrc}
                                 alt={item.title}
                                 height={35}
                             />
 
-                            {/* Text */}
+                            
                             <Typography
                                 variant="p"
                                 component="p"
@@ -109,7 +109,7 @@ function WhyWorkWithUs() {
                 ))}
             </Box>
 
-            {/* Second Row of Cards */}
+            
             <Box
                 sx={{
                     display: 'flex',
@@ -139,14 +139,14 @@ function WhyWorkWithUs() {
                                 paddingBottom: '10px',
                             }}
                         >
-                            {/* Image */}
+                          
                             <img
                                 src={item.imgSrc}
                                 alt={item.title}
                                 height={35}
                             />
 
-                            {/* Text */}
+                            
                             <Typography
                                 variant="p"
                                 component="p"

@@ -25,7 +25,6 @@ import norway from '../assets/norway.png';
 const ExpeditedPathwayCards = () => {
   return (
     <>
-      {/* Main Card */}
       <Card
         sx={{
           backgroundColor: 'white',
@@ -124,7 +123,7 @@ const ExpeditedPathwayCards = () => {
         <Card
             sx={{
                 backgroundColor: 'white',
-                width: '50%', // Ensures two cards fit horizontally
+                width: '50%', 
                 padding: '16px',
                 boxShadow: '0 4px 8px rgba(0, 0, 0, 0.2)',
                 textAlign: 'center',
@@ -453,7 +452,7 @@ const ExpeditedPathwayCards = () => {
         <Card
             sx={{
                 backgroundColor: 'white',
-                width: '50%', // Ensures two cards fit horizontally
+                width: '50%', 
                 padding: '16px',
                 boxShadow: '0 4px 8px rgba(0, 0, 0, 0.2)',
                 textAlign: 'center',
