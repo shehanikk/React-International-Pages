@@ -1,9 +1,12 @@
 {
   "files": {
     "main.css": "/React-International-Pages/static/css/main.151f7969.css",
-    "main.js": "/React-International-Pages/static/js/main.d888ec31.js",
+    "main.js": "/React-International-Pages/static/js/main.53487bc6.js",
     "static/js/488.4c05762e.chunk.js": "/React-International-Pages/static/js/488.4c05762e.chunk.js",
+    "static/media/insi3.jpeg": "/React-International-Pages/static/media/insi3.8a182cb364639f383d58.jpeg",
     "static/media/testiIm.jpeg": "/React-International-Pages/static/media/testiIm.ea6df0b33db1ceaba389.jpeg",
+    "static/media/insi1.jpeg": "/React-International-Pages/static/media/insi1.31f26437c3b7cef1b5a9.jpeg",
+    "static/media/insi2.jpeg": "/React-International-Pages/static/media/insi2.139006443f1635566a0c.jpeg",
     "static/media/ausiMap.png": "/React-International-Pages/static/media/ausiMap.2769e881fb03807edeee.png",
     "static/media/worldMap.png": "/React-International-Pages/static/media/worldMap.4657465bc9290b78f66c.png",
     "static/media/avatar3.jpg": "/React-International-Pages/static/media/avatar3.0655bd1c1139bb95d61d.jpg",
@@ -21,11 +24,11 @@
     "static/media/3im.png": "/React-International-Pages/static/media/3im.b5df948457839d4becd4.png",
     "index.html": "/React-International-Pages/index.html",
     "main.151f7969.css.map": "/React-International-Pages/static/css/main.151f7969.css.map",
-    "main.d888ec31.js.map": "/React-International-Pages/static/js/main.d888ec31.js.map",
+    "main.53487bc6.js.map": "/React-International-Pages/static/js/main.53487bc6.js.map",
     "488.4c05762e.chunk.js.map": "/React-International-Pages/static/js/488.4c05762e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.151f7969.css",
-    "static/js/main.d888ec31.js"
+    "static/js/main.53487bc6.js"
   ]
 }
